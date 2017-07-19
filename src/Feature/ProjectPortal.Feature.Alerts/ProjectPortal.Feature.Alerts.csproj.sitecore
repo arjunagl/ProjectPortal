@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="http://projectportal" UserName="sitecore\admin" IsRemoteSitecore="True" />
+  </PropertyGroup>
+</Project>

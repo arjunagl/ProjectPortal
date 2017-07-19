@@ -1,0 +1,44 @@
+----item----
+version: 1
+id: {63E3AA36-5F22-41A6-9976-70F43FF42124}
+database: master
+path: /sitecore/content/Project Portal/Alerts
+parent: {C8DD4658-FD50-41F7-AE50-BCE3C715EE8C}
+name: Alerts
+master: {00000000-0000-0000-0000-000000000000}
+template: {77349166-96B7-42EB-B752-ACDCD608C824}
+templatekey: AlertsFolder
+
+----version----
+language: en
+version: 1
+revision: 4b7b8877-15ef-4cd7-8c2b-c3759ec60962
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170628T151230Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4b7b8877-15ef-4cd7-8c2b-c3759ec60962
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170628T151230Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

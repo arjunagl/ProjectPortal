@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {98981841-BD06-4310-8CC0-CD9466FC6953}
+database: master
+path: /sitecore/content/Project Portal/Alerts/2017/06/28/15/16/Rain
+parent: {7B82CB74-7249-41D5-A12B-3ADFAA2D1E9F}
+name: Rain
+master: {00000000-0000-0000-0000-000000000000}
+template: {D9577B16-776F-48C3-B2F8-E31514ACD492}
+templatekey: AlertDataSource
+
+----version----
+language: en
+version: 1
+revision: ad9424ab-77bb-4523-9a8d-54a5d1a219e8
+
+----field----
+field: {EA19CFE8-8026-497A-9652-83C1712DAE9D}
+name: Alert Title
+key: alert title
+content-length: 12
+
+Rain warning
+----field----
+field: {413BAE14-4B52-4429-96CB-EB84D3841D1F}
+name: Alert Description
+key: alert description
+content-length: 18
+
+Watch out for rain
+----field----
+field: {C6F7C6C4-74EF-4AE5-84DA-B7A0FA159316}
+name: IsActive
+key: isactive
+content-length: 1
+
+1
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170628T151646Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ad9424ab-77bb-4523-9a8d-54a5d1a219e8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170628T151703Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

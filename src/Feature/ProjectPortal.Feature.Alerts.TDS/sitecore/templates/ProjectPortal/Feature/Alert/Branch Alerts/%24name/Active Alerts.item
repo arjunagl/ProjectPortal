@@ -1,0 +1,58 @@
+----item----
+version: 1
+id: {6C90EA4F-BF0B-47F3-855E-F5F757DE2D54}
+database: master
+path: /sitecore/templates/ProjectPortal/Feature/Alert/Branch Alerts/$name/Active Alerts
+parent: {F0401DC9-D076-4A3C-B9C5-5AC42BC25D48}
+name: Active Alerts
+master: {00000000-0000-0000-0000-000000000000}
+template: {98EC37BF-BCA6-40C6-A772-5C52190EF205}
+templatekey: Saved Search
+
+----field----
+field: {C7815F60-96E1-40CB-BB06-B5F833F73B61}
+name: __Persistent Bucket Filter
+key: __persistent bucket filter
+content-length: 116
+
+custom:IsActive|true;template:{d9577b16-776f-48c3-b2f8-e31514acd492};location:{f0401dc9-d076-4a3c-b9c5-5ac42bc25d48}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 67
+
+ar|sitecore\Everyone|pe|-item:read|au|sitecore\admin|pe|+item:read|
+----version----
+language: en
+version: 1
+revision: 2403ea10-1163-407e-bf51-16327f2083f5
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20170703T224801Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2403ea10-1163-407e-bf51-16327f2083f5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20170705T055426Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
